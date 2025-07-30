@@ -187,7 +187,7 @@ const MySection = () => (
 
 ## 🏷️ Keywords
 
-React, Vite, Tailwind CSS, UI/UX, Modern Web, Parallax, Responsive, Components, Design System, Roadmap, Features, Tutorial, JavaScript Mastery, Reusable, Scalable, Open Source
+React, Vite, Tailwind CSS, UI/UX, Modern Web, Parallax, Responsive, Components, Design System, Roadmap, Features, Tutorial, Reusable, Scalable, Open Source
 
 ---
 
