@@ -1,8 +1,17 @@
 
 # 🧠 Brainwave – Modern UI/UX Landing Page React Website
 
-
-<img width="1415" height="870" alt="Screenshot 2025-07-30 at 13 26 23" src="https://github.com/user-attachments/assets/56060732-b01f-4ed0-955c-76247b9d1ebe" /> <img width="1366" height="825" alt="Screenshot 2025-07-30 at 13 26 45" src="https://github.com/user-attachments/assets/577eca3a-a04e-46c5-b0b9-7c2e0ab7de94" /> <img width="1269" height="768" alt="Screenshot 2025-07-30 at 13 27 01" src="https://github.com/user-attachments/assets/2a80408e-cd8c-4d54-ac3f-5d32eb5a1f0b" /> <img width="1248" height="646" alt="Screenshot 2025-07-30 at 13 27 16" src="https://github.com/user-attachments/assets/502cb83d-bb2d-48c5-a439-98ba2c5eba6f" /> <img width="1333" height="782" alt="Screenshot 2025-07-30 at 13 27 30" src="https://github.com/user-attachments/assets/9853f330-d763-44f3-b345-814832e9f3fd" /> <img width="1335" height="776" alt="Screenshot 2025-07-30 at 13 27 41" src="https://github.com/user-attachments/assets/546e4b4c-4ca5-4ce3-a39b-fe0a46a5444c" /> <img width="1338" height="792" alt="Screenshot 2025-07-30 at 13 27 52" src="https://github.com/user-attachments/assets/71d45c5e-7355-49cf-a40f-18afa17ffa1c" /> <img width="1330" height="795" alt="Screenshot 2025-07-30 at 13 28 14" src="https://github.com/user-attachments/assets/a784062c-f38e-447d-b89b-7313feac3af7" /> <img width="1323" height="780" alt="Screenshot 2025-07-30 at 13 28 40" src="https://github.com/user-attachments/assets/ae17bea4-fbf7-4122-93d2-c46878b62d5a" /> <img width="1337" height="801" alt="Screenshot 2025-07-30 at 13 28 54" src="https://github.com/user-attachments/assets/4bebed12-23d5-45e1-a01e-40756087869e" /> <img width="1353" height="781" alt="Screenshot 2025-07-30 at 13 29 08" src="https://github.com/user-attachments/assets/328d9c8a-da42-4c13-a12e-f02059c842fd" />
+![Screenshot 2025-07-30 at 13 26 23](https://github.com/user-attachments/assets/56060732-b01f-4ed0-955c-76247b9d1ebe)
+![Screenshot 2025-07-30 at 13 26 45](https://github.com/user-attachments/assets/577eca3a-a04e-46c5-b0b9-7c2e0ab7de94)
+![Screenshot 2025-07-30 at 13 27 01](https://github.com/user-attachments/assets/2a80408e-cd8c-4d54-ac3f-5d32eb5a1f0b)
+![Screenshot 2025-07-30 at 13 27 16](https://github.com/user-attachments/assets/502cb83d-bb2d-48c5-a439-98ba2c5eba6f)
+![Screenshot 2025-07-30 at 13 27 30](https://github.com/user-attachments/assets/9853f330-d763-44f3-b345-814832e9f3fd)
+![Screenshot 2025-07-30 at 13 27 41](https://github.com/user-attachments/assets/546e4b4c-4ca5-4ce3-a39b-fe0a46a5444c)
+![Screenshot 2025-07-30 at 13 27 52](https://github.com/user-attachments/assets/71d45c5e-7355-49cf-a40f-18afa17ffa1c)
+![Screenshot 2025-07-30 at 13 28 14](https://github.com/user-attachments/assets/a784062c-f38e-447d-b89b-7313feac3af7)
+![Screenshot 2025-07-30 at 13 28 40](https://github.com/user-attachments/assets/ae17bea4-fbf7-4122-93d2-c46878b62d5a)
+![Screenshot 2025-07-30 at 13 28 54](https://github.com/user-attachments/assets/4bebed12-23d5-45e1-a01e-40756087869e)
+![Screenshot 2025-07-30 at 13 29 08](https://github.com/user-attachments/assets/328d9c8a-da42-4c13-a12e-f02059c842fd)
 
 ---
 
@@ -10,7 +19,7 @@
 
 Brainwave is a modern UI/UX web application built with React.js, Vite, and Tailwind CSS. It showcases advanced design principles, smooth animations, and a modular architecture, making it an ideal reference for building visually stunning and highly interactive web projects. The project is structured for easy learning, extension, and reusability, with a focus on clean code and best practices.
 
-- **Live demo:** []()
+- **Live-Demo:** [https://brainwave-modern-ui.netlify.app/](https://brainwave-modern-ui.netlify.app/)
 
 ---
 
@@ -188,14 +197,14 @@ Brainwave is a showcase of modern web design and development, built for learning
 
 ---
 
-## 🎉 Happy Coding! 🚀
+## Happy Coding! 🎉
 
 Feel free to use this Project Repository and extend this project further!  
+
+If you have any questions or want to share your work, reach out via GitHub or my portfolio [https://arnob-mahmud.vercel.app/](https://arnob-mahmud.vercel.app/).
+
+**Enjoy building and learning!** 🚀
+
 Thank you! 😊
-
----
-
-If you have any questions or want to share your work, join our Discord community or reach out via GitHub.  
-**Enjoy building and learning!**
 
 ---
