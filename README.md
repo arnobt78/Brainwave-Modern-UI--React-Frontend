@@ -115,7 +115,7 @@ Each component is designed for reusability and can be imported into other projec
 ### Setup
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
+git clone https://github.com/arnobt78/Brainwave-Modern-UI--React-Frontend.git
 cd brainwave
 npm install
 npm run dev
