@@ -1,0 +1,17 @@
+# Netlify configuration for SPA routing
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+# Redirect all requests to index.html for client-side routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Optional: Custom 404 page
+# Uncomment and provide your own 404.html if needed
+# [[redirects]]
+#   from = "/404"
+#   to = "/404.html"
+#   status = 404
